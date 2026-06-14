@@ -11,7 +11,7 @@
   <a href="https://github.com/Rafix4x/register"><img src="https://img.shields.io/badge/IS--A--DEV-CONTRIBUTOR-7F00FF?style=for-the-badge&logo=github"/></a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 </div>
 
@@ -19,7 +19,7 @@
 <tr>
 <td valign="top" width="50%">
 
-## 🧠 ABOUT ME
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1200&color=00F5FF&center=true&vCenter=true&repeat=true&width=600&height=50&lines=%F0%A7%A0%AD+WHO+AM+I%3F)](https://github.com/Rafix4x)
 
 ```javascript
 import { Developer } from 'bangladesh';
@@ -57,7 +57,7 @@ export default rafi;
 </td>
 <td valign="top" width="50%">
 
-## ⚡ QUICK STATS
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1200&color=7F00FF&center=true&vCenter=true&repeat=true&width=600&height=50&lines=%E2%9A%A1+MY+QUICK+STATS)](https://github.com/Rafix4x)
 
 <p align="center">
   <img width="100%" src="https://github-readme-stats.vercel.app/api?username=Rafix4x&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=7F00FF&text_color=C9D1D9&custom_title=GITHUB%20STATISTICS"/>
@@ -75,11 +75,11 @@ export default rafi;
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <div align="center">
 
-## 🛠️ TECH ARSENAL
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1200&color=00F5FF&center=true&vCenter=true&repeat=true&width=600&height=50&lines=%F0%9F%94%A7+MY+TECH+ARSENAL)](https://github.com/Rafix4x)
 
 <p>
   <img src="https://skillicons.dev/icons?i=js,nodejs,express,python,html,css,git,github,vercel,railway,linux,vscode,obsidian,cloudflare&theme=dark&perline=7"/>
@@ -93,11 +93,28 @@ export default rafi;
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+### 📈 MY SKILLS
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js&theme=dark" width="48" title="JavaScript"/>
+  <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="48" title="Node.js"/>
+  <img src="https://skillicons.dev/icons?i=express&theme=dark" width="48" title="Express"/>
+  <img src="https://skillicons.dev/icons?i=python&theme=dark" width="48" title="Python"/>
+  <img src="https://skillicons.dev/icons?i=html&theme=dark" width="48" title="HTML"/>
+  <img src="https://skillicons.dev/icons?i=css&theme=dark" width="48" title="CSS"/>
+  <img src="https://skillicons.dev/icons?i=git&theme=dark" width="48" title="Git"/>
+  <img src="https://skillicons.dev/icons?i=linux&theme=dark" width="48" title="Linux"/>
+  <img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="48" title="VS Code"/>
+  <img src="https://skillicons.dev/icons?i=railway&theme=dark" width="48" title="Railway"/>
+  <img src="https://skillicons.dev/icons?i=vercel&theme=dark" width="48" title="Vercel"/>
+  <img src="https://skillicons.dev/icons?i=cloudflare&theme=dark" width="48" title="Cloudflare"/>
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <div align="center">
 
-## 📊 PRODUCTIVITY METRICS
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1200&color=00F5FF&center=true&vCenter=true&repeat=true&width=600&height=50&lines=%F0%9F%93%8A+PRODUCTIVITY+METRICS)](https://github.com/Rafix4x)
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Rafix4x&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=C9D1D9&custom_title=TIME%20BY%20LANGUAGE&layout=compact&langs_count=8"/>
@@ -106,11 +123,11 @@ export default rafi;
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <div align="center">
 
-## 🏆 ACHIEVEMENT GALLERY
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1200&color=7F00FF&center=true&vCenter=true&repeat=true&width=600&height=50&lines=%F0%9F%8F%86+ACHIEVEMENT+GALLERY)](https://github.com/Rafix4x)
 
 <p align="center">
   <img width="100%" src="https://github-profile-trophy.vercel.app/?username=Rafix4x&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7&title_color=00F5FF&icon_color=7F00FF"/>
@@ -118,11 +135,11 @@ export default rafi;
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <div align="center">
 
-## 🌐 ACTIVITY GRAPH
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1200&color=00F5FF&center=true&vCenter=true&repeat=true&width=600&height=50&lines=%F0%9F%8C%90+ACTIVITY+GRAPH)](https://github.com/Rafix4x)
 
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rafix4x&bg_color=0D1117&color=00F5FF&line=7F00FF&point=FFFFFF&area=true&hide_border=true&area_color=00F5FF&title_color=00F5FF"/>
@@ -130,11 +147,11 @@ export default rafi;
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <div align="center">
 
-## 🔥 FEATURED CREATIONS
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1200&color=7F00FF&center=true&vCenter=true&repeat=true&width=600&height=50&lines=%F0%9F%94%A5+FEATURED+CREATIONS)](https://github.com/Rafix4x)
 
 <p align="center">
   <a href="https://github.com/Rafix4x/register">
@@ -147,11 +164,11 @@ export default rafi;
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <div align="center">
 
-## 🐍 CONTRIBUTION SNAKE
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1200&color=00F5FF&center=true&vCenter=true&repeat=true&width=600&height=50&lines=%F0%9F%90%8D+CONTRIBUTION+SNAKE)](https://github.com/Rafix4x)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rafix4x/Rafix4x/output/github-contribution-grid-snake-dark.svg">
@@ -161,11 +178,11 @@ export default rafi;
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <div align="center">
 
-## 💭 PHILOSOPHY
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1200&color=7F00FF&center=true&vCenter=true&repeat=true&width=600&height=50&lines=%F0%9F%92%AD+MY+PHILOSOPHY)](https://github.com/Rafix4x)
 
 <table align="center">
 <tr>
