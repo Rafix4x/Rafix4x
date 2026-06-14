@@ -1,0 +1,130 @@
+<svg width="1000" height="220" viewBox="0 0 1000 220" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="vb-bg" x1="0" y1="0" x2="1000" y2="220">
+      <stop offset="0%" stop-color="#020617"/>
+      <stop offset="50%" stop-color="#0D1117"/>
+      <stop offset="100%" stop-color="#0A001A"/>
+    </linearGradient>
+    <linearGradient id="vb-neon" x1="0" y1="0" x2="1000" y2="0">
+      <stop offset="0%" stop-color="#00F5FF"><animate attributeName="stop-color" values="#00F5FF;#7F00FF;#FF00E5;#00F5FF" dur="4s" repeatCount="indefinite"/></stop>
+      <stop offset="50%" stop-color="#7F00FF"><animate attributeName="stop-color" values="#7F00FF;#FF00E5;#00F5FF;#7F00FF" dur="4s" repeatCount="indefinite"/></stop>
+      <stop offset="100%" stop-color="#FF00E5"><animate attributeName="stop-color" values="#FF00E5;#00F5FF;#7F00FF;#FF00E5" dur="4s" repeatCount="indefinite"/></stop>
+    </linearGradient>
+    <linearGradient id="vb-pulse" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#00F5FF" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#00F5FF" stop-opacity="0.6">
+        <animate attributeName="offset" values="0;1;0" dur="2s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#00F5FF" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="vb-glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="vb-big" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="14" result="b"/>
+      <feColorMatrix in="b" type="matrix" values="0 0 0 0 0  0 0 0 0 .96  0 0 0 0 1  0 0 0 .7 0"/>
+      <feMerge><feMergeNode/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <clipPath id="vb-clip"><rect x="20" y="20" width="960" height="180" rx="28"/></clipPath>
+    <style>
+      .vb-h{font-family:'Segoe UI',Inter,Arial,sans-serif;font-weight:900;letter-spacing:6px}
+      .vb-n{font-family:'Fira Code',Consolas,monospace;font-weight:900}
+      .vb-s{font-family:'Fira Code',Consolas,monospace;font-weight:600}
+      .vb-l{font-family:'Segoe UI',Inter,Arial,sans-serif;font-weight:700;letter-spacing:2px}
+    </style>
+  </defs>
+
+  <rect width="1000" height="220" rx="30" fill="url(#vb-bg)"/>
+  <g clip-path="url(#vb-clip)">
+    <circle cx="120" cy="60" r="110" fill="#00F5FF" opacity="0.07">
+      <animate attributeName="cx" values="120;880;120" dur="11s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.04;0.14;0.04" dur="5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="880" cy="170" r="120" fill="#7F00FF" opacity="0.08">
+      <animate attributeName="cx" values="880;120;880" dur="13s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.05;0.16;0.05" dur="6s" repeatCount="indefinite"/>
+    </circle>
+    <path d="M30 165 C200 100 300 200 500 140 S800 90 970 160" stroke="url(#vb-neon)" stroke-width="2.5" opacity="0.35" filter="url(#vb-glow)">
+      <animate attributeName="d" values="M30 165 C200 100 300 200 500 140 S800 90 970 160;M30 140 C200 200 310 80 520 160 S820 210 970 130;M30 165 C200 100 300 200 500 140 S800 90 970 160" dur="6s" repeatCount="indefinite"/>
+    </path>
+    <g opacity="0.7">
+      <circle cx="75" cy="50" r="2.5" fill="#00F5FF"><animate attributeName="cy" values="50;25;50" dur="3.5s" repeatCount="indefinite"/></circle>
+      <circle cx="930" cy="160" r="3" fill="#7F00FF"><animate attributeName="cy" values="160;190;160" dur="4s" repeatCount="indefinite"/></circle>
+      <circle cx="400" cy="35" r="2" fill="#FF00E5"><animate attributeName="cy" values="35;60;35" dur="4.5s" repeatCount="indefinite"/></circle>
+    </g>
+  </g>
+
+  <rect x="20" y="20" width="960" height="180" rx="28" fill="none" stroke="url(#vb-neon)" stroke-width="2.5" filter="url(#vb-glow)">
+    <animate attributeName="stroke-width" values="1.5;4;1.5" dur="3s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="38" y="38" width="924" height="144" rx="20" fill="#0D1117" opacity="0.55" stroke="#fff" stroke-opacity="0.06"/>
+
+  <!-- LIVE indicator -->
+  <g transform="translate(500 52)" text-anchor="middle">
+    <circle cx="-70" cy="-4" r="6" fill="#FF0040" filter="url(#vb-glow)">
+      <animate attributeName="opacity" values="0.3;1;0.3" dur="1s" repeatCount="indefinite"/>
+      <animate attributeName="r" values="4;7;4" dur="1s" repeatCount="indefinite"/>
+    </circle>
+    <text x="-50" y="0" class="vb-l" font-size="13" fill="#FF0040" filter="url(#vb-glow)">LIVE</text>
+    <text x="0" y="0" class="vb-h" font-size="22" fill="url(#vb-neon)" filter="url(#vb-glow)">VISITOR DASHBOARD</text>
+  </g>
+
+  <!-- Stats grid -->
+  <g transform="translate(80 85)">
+    <!-- Profile Views -->
+    <g>
+      <rect x="0" y="0" width="200" height="72" rx="14" fill="#050816" opacity="0.8" stroke="#00F5FF" stroke-width="1.5" filter="url(#vb-glow)"/>
+      <text x="100" y="28" text-anchor="middle" class="vb-l" font-size="11" fill="#8B949E">PROFILE VIEWS</text>
+      <text x="100" y="58" text-anchor="middle" class="vb-n" font-size="28" fill="#00F5FF" filter="url(#vb-big)">
+        <animate attributeName="opacity" values="0;1" dur="0.5s" fill="freeze"/>
+        <animate attributeName="fill" values="#00F5FF;#7F00FF;#FF00E5;#00F5FF" dur="3s" repeatCount="indefinite"/>
+        ∞
+      </text>
+    </g>
+
+    <!-- Today -->
+    <g transform="translate(230 0)">
+      <rect x="0" y="0" width="200" height="72" rx="14" fill="#050816" opacity="0.8" stroke="#7F00FF" stroke-width="1.5" filter="url(#vb-glow)"/>
+      <text x="100" y="28" text-anchor="middle" class="vb-l" font-size="11" fill="#8B949E">TODAY</text>
+      <text x="100" y="58" text-anchor="middle" class="vb-n" font-size="28" fill="#7F00FF" filter="url(#vb-big)">
+        <animate attributeName="opacity" values="0;1" dur="0.8s" fill="freeze"/>
+        LIVE
+      </text>
+      <circle cx="175" cy="14" r="4" fill="#00FF88" filter="url(#vb-glow)">
+        <animate attributeName="opacity" values="0.2;1;0.2" dur="1.2s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+
+    <!-- Status -->
+    <g transform="translate(460 0)">
+      <rect x="0" y="0" width="180" height="72" rx="14" fill="#050816" opacity="0.8" stroke="#FF00E5" stroke-width="1.5" filter="url(#vb-glow)"/>
+      <text x="90" y="28" text-anchor="middle" class="vb-l" font-size="11" fill="#8B949E">STATUS</text>
+      <text x="90" y="58" text-anchor="middle" class="vb-n" font-size="26" fill="#00FF88" filter="url(#vb-glow)">
+        <animate attributeName="opacity" values="0.5;1;0.5" dur="2s" repeatCount="indefinite"/>
+        ACTIVE
+      </text>
+    </g>
+
+    <!-- Watching -->
+    <g transform="translate(670 0)">
+      <rect x="0" y="0" width="210" height="72" rx="14" fill="#050816" opacity="0.8" stroke="url(#vb-neon)" stroke-width="1.5" filter="url(#vb-glow)"/>
+      <text x="105" y="28" text-anchor="middle" class="vb-l" font-size="11" fill="#8B949E">YOU ARE BEING</text>
+      <text x="105" y="58" text-anchor="middle" class="vb-n" font-size="24" fill="url(#vb-neon)" filter="url(#vb-big)">
+        WATCHED 👁️
+      </text>
+      <animate attributeName="opacity" values="0.85;1;0.85" dur="1.5s" repeatCount="indefinite"/>
+    </g>
+  </g>
+
+  <!-- Scan line effect -->
+  <rect x="20" y="20" width="960" height="3" fill="url(#vb-pulse)" opacity="0.5">
+    <animate attributeName="y" values="20;197;20" dur="4s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Bottom ticker -->
+  <g transform="translate(500 178)" text-anchor="middle">
+    <text class="vb-s" font-size="11" fill="#8B949E">REAL-TIME TRACKING • EVERY VISIT COUNTS • ANONYMOUS ANALYTICS</text>
+    <animate attributeName="opacity" values="0.6;1;0.6" dur="2s" repeatCount="indefinite"/>
+  </g>
+</svg>
