@@ -22,7 +22,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1200&color=00F5FF&center=true&vCenter=true&repeat=true&width=600&height=50&lines=%F0%A7%A0%AD+WHO+AM+I%3F)](https://github.com/Rafix4x)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Rafix4x/Rafix4x/main/assets/about-god.svg" width="100%" alt="Rafix4x God Level About Me"/>
+  <img src="https://raw.githubusercontent.com/Rafix4x/Rafix4x/main/assets/about-god-v2.svg" width="100%" alt="Rafix4x God Level About Me"/>
 </p>
 
 <p align="center">
