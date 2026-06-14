@@ -165,11 +165,33 @@ export default rafi;
 
 <div align="center">
 
-## 💬 DEV WISDOM
+## 💭 PHILOSOPHY
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-</p>
+<table align="center">
+<tr>
+<td>
+<br>
+
+> **"Code fast. Ship faster. Break nothing."**
+>
+> — *Rafix4x*
+
+<br>
+
+> **"The best API is the one that just works — no docs needed."**
+>
+> — *Rafix4x*
+
+<br>
+
+> **"Automate the boring stuff. Focus on what matters."**
+>
+> — *Rafix4x*
+
+<br>
+</td>
+</tr>
+</table>
 
 ---
 
