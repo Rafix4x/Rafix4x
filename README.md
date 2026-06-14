@@ -184,31 +184,13 @@ export default rafi;
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1200&color=7F00FF&center=true&vCenter=true&repeat=true&width=600&height=50&lines=%F0%9F%92%AD+MY+PHILOSOPHY)](https://github.com/Rafix4x)
 
-<table align="center">
-<tr>
-<td>
-<br>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2600&pause=900&color=00F5FF&center=true&vCenter=true&repeat=true&width=900&height=60&lines=Code+fast.+Ship+faster.+Break+nothing.;The+best+API+is+the+one+that+just+works+%E2%80%94+no+docs+needed.;Automate+the+boring+stuff.+Focus+on+what+matters." alt="Animated Philosophy Quotes"/>
+</p>
 
-> **"Code fast. Ship faster. Break nothing."**
->
-> — *Rafix4x*
-
-<br>
-
-> **"The best API is the one that just works — no docs needed."**
->
-> — *Rafix4x*
-
-<br>
-
-> **"Automate the boring stuff. Focus on what matters."**
->
-> — *Rafix4x*
-
-<br>
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2600&pause=900&color=7F00FF&center=true&vCenter=true&repeat=true&width=500&height=35&lines=%E2%80%94+Rafix4x;%E2%80%94+Rafix4x;%E2%80%94+Rafix4x" alt="Rafix4x signature"/>
+</p>
 
 ---
 
