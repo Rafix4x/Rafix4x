@@ -80,7 +80,7 @@
       <animateTransform attributeName="transform" type="translate" values="0 15;0 0;0 0;0 -15;0 -15" keyTimes="0;0.08;0.30;0.39;1" dur="9s" repeatCount="indefinite"/>
     </text>
     <text x="25" y="62" class="m" font-size="20" fill="#FFFFFF" opacity="0">
-      Bot Development & Automation
+      Bot Development &amp; Automation
       <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.33;0.42;0.63;0.72;1" dur="9s" repeatCount="indefinite"/>
       <animateTransform attributeName="transform" type="translate" values="0 15;0 15;0 0;0 0;0 -15;0 -15" keyTimes="0;0.33;0.42;0.63;0.72;1" dur="9s" repeatCount="indefinite"/>
     </text>
