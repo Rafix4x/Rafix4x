@@ -1,0 +1,106 @@
+<svg width="1000" height="360" viewBox="0 0 1000 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1000" y2="360">
+      <stop offset="0%" stop-color="#020617"/>
+      <stop offset="45%" stop-color="#0D1117"/>
+      <stop offset="100%" stop-color="#18002A"/>
+    </linearGradient>
+    <linearGradient id="neon" x1="0" y1="0" x2="1000" y2="0">
+      <stop offset="0%" stop-color="#00F5FF"><animate attributeName="stop-color" values="#00F5FF;#7F00FF;#FF00E5;#00F5FF" dur="5s" repeatCount="indefinite"/></stop>
+      <stop offset="50%" stop-color="#7F00FF"><animate attributeName="stop-color" values="#7F00FF;#FF00E5;#00F5FF;#7F00FF" dur="5s" repeatCount="indefinite"/></stop>
+      <stop offset="100%" stop-color="#FF00E5"><animate attributeName="stop-color" values="#FF00E5;#00F5FF;#7F00FF;#FF00E5" dur="5s" repeatCount="indefinite"/></stop>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="bigGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="13" result="blur"/>
+      <feColorMatrix in="blur" type="matrix" values="0 0 0 0 0  0 0 0 0 .96  0 0 0 0 1  0 0 0 .75 0"/>
+      <feMerge><feMergeNode/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <clipPath id="clip"><rect x="25" y="25" width="950" height="310" rx="32"/></clipPath>
+    <style>
+      .h { font-family: 'Segoe UI', Inter, Arial, sans-serif; font-weight: 900; letter-spacing: 6px; }
+      .m { font-family: 'Fira Code', Consolas, monospace; font-weight: 800; }
+      .s { font-family: 'Fira Code', Consolas, monospace; font-weight: 600; }
+      .label { font-family: 'Segoe UI', Inter, Arial, sans-serif; font-weight: 800; letter-spacing: 2px; }
+    </style>
+  </defs>
+
+  <rect width="1000" height="360" rx="34" fill="url(#bg)"/>
+  <g clip-path="url(#clip)">
+    <circle cx="180" cy="80" r="150" fill="#00F5FF" opacity="0.08">
+      <animate attributeName="cx" values="180;840;180" dur="12s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.05;0.16;0.05" dur="5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="820" cy="300" r="160" fill="#7F00FF" opacity="0.10">
+      <animate attributeName="cx" values="820;160;820" dur="13s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.06;0.20;0.06" dur="6s" repeatCount="indefinite"/>
+    </circle>
+    <path d="M40 280 C180 210 260 335 420 250 S700 190 960 270" stroke="url(#neon)" stroke-width="3" opacity="0.45" filter="url(#glow)">
+      <animate attributeName="d" values="M40 280 C180 210 260 335 420 250 S700 190 960 270;M40 255 C190 330 280 190 440 275 S720 330 960 230;M40 280 C180 210 260 335 420 250 S700 190 960 270" dur="7s" repeatCount="indefinite"/>
+    </path>
+    <g opacity="0.75">
+      <circle cx="90" cy="85" r="3" fill="#00F5FF"><animate attributeName="cy" values="85;45;85" dur="4s" repeatCount="indefinite"/></circle>
+      <circle cx="260" cy="55" r="2" fill="#FF00E5"><animate attributeName="cy" values="55;100;55" dur="5s" repeatCount="indefinite"/></circle>
+      <circle cx="710" cy="70" r="3" fill="#00F5FF"><animate attributeName="cy" values="70;35;70" dur="4.2s" repeatCount="indefinite"/></circle>
+      <circle cx="910" cy="255" r="2.8" fill="#7F00FF"><animate attributeName="cy" values="255;310;255" dur="4.8s" repeatCount="indefinite"/></circle>
+    </g>
+  </g>
+
+  <rect x="25" y="25" width="950" height="310" rx="32" fill="none" stroke="url(#neon)" stroke-width="3" filter="url(#glow)">
+    <animate attributeName="stroke-width" values="2;5;2" dur="3s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="45" y="45" width="910" height="270" rx="22" fill="#0D1117" opacity="0.58" stroke="#ffffff" stroke-opacity="0.08"/>
+
+  <text x="500" y="78" text-anchor="middle" class="h" font-size="24" fill="url(#neon)" filter="url(#glow)">WHO I AM</text>
+  <text x="500" y="104" text-anchor="middle" class="s" font-size="12" fill="#8B949E">IDENTITY MODULE • RAFIX4X CORE • BANGLADESH 🇧🇩</text>
+
+  <g transform="translate(80 130)">
+    <rect x="0" y="0" width="360" height="145" rx="18" fill="#050816" opacity="0.85" stroke="url(#neon)" stroke-width="2" filter="url(#glow)"/>
+    <circle cx="25" cy="24" r="6" fill="#FF5F56"/><circle cx="47" cy="24" r="6" fill="#FFBD2E"/><circle cx="69" cy="24" r="6" fill="#27C93F"/>
+    <text x="25" y="58" class="s" font-size="15" fill="#00F5FF">$ whoami</text>
+    <text x="25" y="84" class="m" font-size="18" fill="#FFFFFF" opacity="0">
+      Rafi // Rafix4x
+      <animate attributeName="opacity" values="0;1;1" dur="2s" repeatCount="1" fill="freeze"/>
+    </text>
+    <text x="25" y="112" class="s" font-size="14" fill="#C9D1D9" opacity="0">
+      Full Stack Developer + API Builder
+      <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.35;0.55;1" dur="3s" repeatCount="1" fill="freeze"/>
+    </text>
+  </g>
+
+  <g transform="translate(485 132)">
+    <rect x="0" y="0" width="435" height="142" rx="18" fill="#050816" opacity="0.78" stroke="#ffffff" stroke-opacity="0.10"/>
+    <text x="25" y="32" class="label" font-size="14" fill="#00F5FF">SPECIALITY</text>
+    <text x="25" y="62" class="m" font-size="20" fill="#FFFFFF" opacity="0">
+      REST API Architecture
+      <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.08;0.30;0.39;1" dur="9s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="translate" values="0 15;0 0;0 0;0 -15;0 -15" keyTimes="0;0.08;0.30;0.39;1" dur="9s" repeatCount="indefinite"/>
+    </text>
+    <text x="25" y="62" class="m" font-size="20" fill="#FFFFFF" opacity="0">
+      Bot Development &amp; Automation
+      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.33;0.42;0.63;0.72;1" dur="9s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="translate" values="0 15;0 15;0 0;0 0;0 -15;0 -15" keyTimes="0;0.33;0.42;0.63;0.72;1" dur="9s" repeatCount="indefinite"/>
+    </text>
+    <text x="25" y="62" class="m" font-size="20" fill="#FFFFFF" opacity="0">
+      Web Scraping + Cloud Deploy
+      <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.66;0.75;0.93;1" dur="9s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="translate" values="0 15;0 15;0 0;0 0;0 -15" keyTimes="0;0.66;0.75;0.93;1" dur="9s" repeatCount="indefinite"/>
+    </text>
+
+    <text x="25" y="103" class="label" font-size="13" fill="#7F00FF">CURRENTLY</text>
+    <text x="128" y="103" class="s" font-size="14" fill="#C9D1D9">Building production APIs on Railway</text>
+  </g>
+
+  <g transform="translate(90 302)">
+    <text class="s" font-size="12" fill="#8B949E">MODE:</text>
+    <text x="55" class="m" font-size="13" fill="#00F5FF" filter="url(#glow)">SHIPPER</text>
+    <text x="165" class="s" font-size="12" fill="#8B949E">STACK:</text>
+    <text x="225" class="m" font-size="13" fill="#7F00FF" filter="url(#glow)">NODE.JS • PYTHON • RAILWAY</text>
+    <text x="520" class="s" font-size="12" fill="#8B949E">STATUS:</text>
+    <text x="590" class="m" font-size="13" fill="#00FF88" filter="url(#glow)">ONLINE</text>
+    <circle cx="675" cy="-4" r="5" fill="#00FF88" filter="url(#glow)"><animate attributeName="opacity" values="0.25;1;0.25" dur="1.2s" repeatCount="indefinite"/></circle>
+  </g>
+</svg>
