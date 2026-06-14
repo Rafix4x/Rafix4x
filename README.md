@@ -185,13 +185,14 @@ export default rafi;
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1200&color=7F00FF&center=true&vCenter=true&repeat=true&width=600&height=50&lines=%F0%9F%92%AD+MY+PHILOSOPHY)](https://github.com/Rafix4x)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2600&pause=900&color=00F5FF&center=true&vCenter=true&repeat=true&width=900&height=60&lines=Code+fast.+Ship+faster.+Break+nothing.;The+best+API+is+the+one+that+just+works+%E2%80%94+no+docs+needed.;Automate+the+boring+stuff.+Focus+on+what+matters." alt="Animated Philosophy Quotes"/>
+  <img src="https://raw.githubusercontent.com/Rafix4x/Rafix4x/main/assets/philosophy-god.svg" width="100%" alt="Rafix4x God Level Animated Philosophy"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2600&pause=900&color=7F00FF&center=true&vCenter=true&repeat=true&width=500&height=35&lines=%E2%80%94+Rafix4x;%E2%80%94+Rafix4x;%E2%80%94+Rafix4x" alt="Rafix4x signature"/>
+  <img src="https://img.shields.io/badge/MINDSET-CODE%20FAST-00F5FF?style=for-the-badge&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/API-JUST%20WORKS-7F00FF?style=for-the-badge&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/FOCUS-AUTOMATION-FF00E5?style=for-the-badge&labelColor=0D1117"/>
 </p>
-
 ---
 
 ### 🤝 CONNECT
