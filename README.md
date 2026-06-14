@@ -21,39 +21,25 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1200&color=00F5FF&center=true&vCenter=true&repeat=true&width=600&height=50&lines=%F0%A7%A0%AD+WHO+AM+I%3F)](https://github.com/Rafix4x)
 
-```javascript
-import { Developer } from 'bangladesh';
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Rafix4x/Rafix4x/main/assets/about-god.svg" width="100%" alt="Rafix4x God Level About Me"/>
+</p>
 
-const rafi = new Developer({
-    name        : "Rafi",
-    username    : "Rafix4x",
-    location    : "Bangladesh 🇧🇩",
-    role        : "Full Stack Developer",
-    
-    expertise   : [
-        "REST API Architecture",
-        "Bot Development", 
-        "Web Scraping & Automation",
-        "Cloud Deployment"
-    ],
-    
-    stack       : {
-        backend     : ["Node.js", "Express"],
-        languages   : ["JavaScript", "Python"],
-        frontend    : ["HTML5", "CSS3"],
-        devops      : ["Railway", "Vercel", "GitHub Actions"],
-        tools       : ["Git", "Linux", "VS Code"]
-    },
-    
-    currently    : "Building production APIs on Railway",
-    learning     : ["TypeScript", "Docker"],
-    
-    motto        : "Code fast. Ship faster. Break nothing."
-});
+<p align="center">
+  <img src="https://img.shields.io/badge/ROLE-FULL%20STACK%20DEV-00F5FF?style=for-the-badge&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/FOCUS-API%20ARCHITECT-7F00FF?style=for-the-badge&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/POWER-AUTOMATION-FF00E5?style=for-the-badge&labelColor=0D1117"/>
+</p>
 
-export default rafi;
+```js
+const rafix4x = {
+  identity: "Rafi",
+  location: "Bangladesh 🇧🇩",
+  mission: "Build tools that feel fast, clean and useful",
+  stack: ["Node.js", "Express", "Python", "Railway", "GitHub Actions"],
+  signature: "Code fast. Ship faster. Break nothing."
+};
 ```
-
 </td>
 <td valign="top" width="50%">
 
