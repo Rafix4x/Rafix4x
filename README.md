@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&multiline=true&width=700&height=100&lines=%F0%9F%92%BB+Full+Stack+Developer;%F0%9F%9A%80+REST+API+Architect;%E2%9A%A1+Node.js+%26+Automation+Specialist;%F0%9F%94%A5+Building+Tools+That+Matter)](https://github.com/Rafix4x)
 
 <p>
-  <a href="https://github.com/Rafix4x"><img src="https://komarev.com/ghpvc/?username=Rafix4x&label=VISITORS&color=blueviolet&style=for-the-badge"/></a>
+  <a href="https://github.com/Rafix4x"><img src="https://visitor-badge.laobi.icu/badge?page_id=Rafix4x.Rafix4x&label=VISITORS&color=00F5FF&style=for-the-badge"/></a>
   <a href="https://github.com/Rafix4x?tab=followers"><img src="https://img.shields.io/github/followers/Rafix4x?color=00F5FF&label=FOLLOWERS&logo=github&style=for-the-badge"/></a>
   <a href="https://github.com/Rafix4x?tab=repositories"><img src="https://img.shields.io/badge/TOTAL%20PROJECTS-15%2B-blueviolet?style=for-the-badge&logo=github"/></a>
   <a href="https://github.com/Rafix4x/register"><img src="https://img.shields.io/badge/IS--A--DEV-CONTRIBUTOR-7F00FF?style=for-the-badge&logo=github"/></a>
@@ -167,6 +167,16 @@ const rafix4x = {
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <div align="center">
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Rafix4x/Rafix4x/main/assets/visitor-god.svg" width="100%" alt="Rafix4x God Level Visitor Dashboard"/>
+</p>
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Rafix4x.Rafix4x&label=TOTAL+VISITORS&color=00F5FF&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-00FF88?style=for-the-badge&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/TRACKING-ANONYMOUS-FF00E5?style=for-the-badge&labelColor=0D1117"/>
+</p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1200&color=7F00FF&center=true&vCenter=true&repeat=true&width=600&height=50&lines=%F0%9F%92%AD+MY+PHILOSOPHY)](https://github.com/Rafix4x)
 
