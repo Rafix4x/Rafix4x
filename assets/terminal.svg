@@ -1,0 +1,138 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 420" width="800" height="420">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;600&amp;display=swap');
+      .terminal { font-family: 'Fira Code', 'Courier New', monospace; }
+      .prompt { fill: #00F5FF; }
+      .cmd { fill: #ffffff; }
+      .key { fill: #7F00FF; }
+      .val { fill: #00FF88; }
+      .comment { fill: #6A737D; }
+      .bracket { fill: #FF00E5; }
+      .cursor { fill: #00F5FF; }
+    </style>
+    <!-- Glow filter -->
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="2" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <filter id="glow-strong">
+      <feGaussianBlur stdDeviation="4" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="800" height="420" rx="12" fill="#0D1117"/>
+  <!-- Border glow -->
+  <rect width="800" height="420" rx="12" fill="none" stroke="#00F5FF" stroke-width="1.5" opacity="0.4"/>
+
+  <!-- Title bar -->
+  <rect width="800" height="40" rx="12" fill="#161B22"/>
+  <rect y="28" width="800" height="12" fill="#161B22"/>
+
+  <!-- Traffic lights -->
+  <circle cx="24" cy="20" r="7" fill="#FF5F57"/>
+  <circle cx="46" cy="20" r="7" fill="#FFBD2E"/>
+  <circle cx="68" cy="20" r="7" fill="#28C941"/>
+
+  <!-- Title -->
+  <text x="400" y="25" text-anchor="middle" font-family="Fira Code, monospace" font-size="13" fill="#8B949E">rafix4x — terminal</text>
+
+  <!-- Line 1: whoami command -->
+  <text class="terminal" x="24" y="76" font-size="14">
+    <tspan class="prompt" filter="url(#glow)">rafix4x</tspan>
+    <tspan fill="#8B949E">@</tspan>
+    <tspan class="prompt" filter="url(#glow)">bangladesh</tspan>
+    <tspan fill="#8B949E">:</tspan>
+    <tspan fill="#7F00FF">~</tspan>
+    <tspan fill="#8B949E">$ </tspan>
+    <tspan class="cmd">whoami</tspan>
+  </text>
+  <animateTransform attributeName="transform" type="translate" from="-800 0" to="0 0" dur="0.01s" fill="freeze"/>
+
+  <!-- Output block -->
+  <text class="terminal" x="24" y="104" font-size="13">
+    <tspan fill="#6A737D"># ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</tspan>
+  </text>
+
+  <text class="terminal" x="24" y="128" font-size="13">
+    <tspan class="key">  identity   </tspan><tspan fill="#8B949E">→ </tspan><tspan class="val">"Rafi"</tspan>
+    <tspan fill="#6A737D">  # Full Stack Developer 🇧🇩</tspan>
+  </text>
+
+  <text class="terminal" x="24" y="152" font-size="13">
+    <tspan class="key">  location   </tspan><tspan fill="#8B949E">→ </tspan><tspan class="val">"Bangladesh"</tspan>
+    <tspan fill="#6A737D">  # UTC+6</tspan>
+  </text>
+
+  <text class="terminal" x="24" y="176" font-size="13">
+    <tspan class="key">  role       </tspan><tspan fill="#8B949E">→ </tspan><tspan class="val">"API Architect &amp; Automation Specialist"</tspan>
+  </text>
+
+  <text class="terminal" x="24" y="200" font-size="13">
+    <tspan class="key">  stack      </tspan><tspan fill="#8B949E">→ </tspan>
+    <tspan class="bracket">[</tspan>
+    <tspan class="val">"Node.js"</tspan><tspan fill="#8B949E">, </tspan>
+    <tspan class="val">"Express"</tspan><tspan fill="#8B949E">, </tspan>
+    <tspan class="val">"Python"</tspan><tspan fill="#8B949E">, </tspan>
+    <tspan class="val">"Railway"</tspan>
+    <tspan class="bracket">]</tspan>
+  </text>
+
+  <text class="terminal" x="24" y="224" font-size="13">
+    <tspan class="key">  focus      </tspan><tspan fill="#8B949E">→ </tspan><tspan class="val">"REST APIs · GitHub Actions · Automation"</tspan>
+  </text>
+
+  <text class="terminal" x="24" y="248" font-size="13">
+    <tspan class="key">  status     </tspan><tspan fill="#8B949E">→ </tspan>
+    <tspan fill="#00FF88" filter="url(#glow)">● ONLINE</tspan>
+    <tspan fill="#6A737D">  # always building something</tspan>
+  </text>
+
+  <text class="terminal" x="24" y="272" font-size="13">
+    <tspan class="key">  mission    </tspan><tspan fill="#8B949E">→ </tspan><tspan class="val">"Build tools that feel fast, clean &amp; useful"</tspan>
+  </text>
+
+  <text class="terminal" x="24" y="296" font-size="13">
+    <tspan fill="#6A737D"># ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</tspan>
+  </text>
+
+  <!-- Line 2: next command -->
+  <text class="terminal" x="24" y="324" font-size="14">
+    <tspan class="prompt" filter="url(#glow)">rafix4x</tspan>
+    <tspan fill="#8B949E">@</tspan>
+    <tspan class="prompt" filter="url(#glow)">bangladesh</tspan>
+    <tspan fill="#8B949E">:</tspan>
+    <tspan fill="#7F00FF">~</tspan>
+    <tspan fill="#8B949E">$ </tspan>
+    <tspan class="cmd">cat motto.txt</tspan>
+  </text>
+
+  <text class="terminal" x="24" y="352" font-size="14" filter="url(#glow)">
+    <tspan fill="#00F5FF">"</tspan>
+    <tspan fill="#ffffff">Code fast. Ship faster. Break nothing.</tspan>
+    <tspan fill="#00F5FF">"</tspan>
+  </text>
+
+  <!-- Blinking cursor line -->
+  <text class="terminal" x="24" y="388" font-size="14">
+    <tspan class="prompt" filter="url(#glow)">rafix4x</tspan>
+    <tspan fill="#8B949E">@</tspan>
+    <tspan class="prompt" filter="url(#glow)">bangladesh</tspan>
+    <tspan fill="#8B949E">:</tspan>
+    <tspan fill="#7F00FF">~</tspan>
+    <tspan fill="#8B949E">$ </tspan>
+  </text>
+
+  <!-- Blinking cursor block -->
+  <rect x="178" y="374" width="10" height="18" fill="#00F5FF" filter="url(#glow)">
+    <animate attributeName="opacity" values="1;0;1" dur="1.2s" repeatCount="indefinite"/>
+  </rect>
+</svg>
