@@ -46,15 +46,15 @@ const rafix4x = {
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1200&color=7F00FF&center=true&vCenter=true&repeat=true&width=600&height=50&lines=%E2%9A%A1+MY+QUICK+STATS)](https://github.com/Rafix4x)
 
 <p align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=Rafix4x&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=7F00FF&text_color=C9D1D9&custom_title=GITHUB%20STATISTICS"/>
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rafix4x&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Rafix4x&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5FF&fire=7F00FF&currStreakLabel=00F5FF&sideNums=00F5FF&currStreakNum=00F5FF&sideLabels=C9D1D9&dates=C9D1D9"/>
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rafix4x&theme=tokyonight&utcOffset=6"/>
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafix4x&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=C9D1D9&langs_count=8"/>
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rafix4x&theme=tokyonight"/>
 </p>
 
 </td>
@@ -103,8 +103,8 @@ const rafix4x = {
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1200&color=00F5FF&center=true&vCenter=true&repeat=true&width=600&height=50&lines=%F0%9F%93%8A+PRODUCTIVITY+METRICS)](https://github.com/Rafix4x)
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Rafix4x&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=C9D1D9&custom_title=TIME%20BY%20LANGUAGE&layout=compact&langs_count=8"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Rafix4x&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7F00FF&text_color=C9D1D9&custom_title=TIME%20BY%20EDITOR&layout=compact&hide=other"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rafix4x&theme=tokyonight"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rafix4x&theme=tokyonight"/>
 </p>
 
 </div>
@@ -116,7 +116,7 @@ const rafix4x = {
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1200&color=7F00FF&center=true&vCenter=true&repeat=true&width=600&height=50&lines=%F0%9F%8F%86+ACHIEVEMENT+GALLERY)](https://github.com/Rafix4x)
 
 <p align="center">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=Rafix4x&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7&title_color=00F5FF&icon_color=7F00FF"/>
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rafix4x&theme=tokyonight"/>
 </p>
 
 </div>
@@ -189,6 +189,7 @@ const rafix4x = {
   <img src="https://img.shields.io/badge/API-JUST%20WORKS-7F00FF?style=for-the-badge&labelColor=0D1117"/>
   <img src="https://img.shields.io/badge/FOCUS-AUTOMATION-FF00E5?style=for-the-badge&labelColor=0D1117"/>
 </p>
+
 ---
 
 ### 🤝 CONNECT
@@ -196,7 +197,6 @@ const rafix4x = {
 <p>
   <a href="https://github.com/Rafix4x"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="mailto:rafihasunaz09@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://rafi.is-a-good.dev"><img src="https://img.shields.io/badge/Website-00F5FF?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:00F5FF&height=120&section=footer&animation=twinkling" width="100%"/>
