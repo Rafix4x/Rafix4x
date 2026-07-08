@@ -21,8 +21,8 @@ jobs:
         with:
           github_user_name: Rafix4x
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?color_snake=00F5FF&color_dots=#0D1117,#003B4D,#006B8A,#00A8C6,#00F5FF
+            dist/github-contribution-grid-snake-dark.svg?color_snake=7F00FF&color_dots=#0D1117,#1A0033,#3D0080,#6600CC,#7F00FF
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
