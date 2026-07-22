@@ -7,29 +7,61 @@
 <p>
   <a href="https://github.com/Rafix4x"><img src="https://visitor-badge.laobi.icu/badge?page_id=Rafix4x.Rafix4x&label=VISITORS&color=00F5FF&style=for-the-badge"/></a>
   <a href="https://github.com/Rafix4x?tab=followers"><img src="https://img.shields.io/github/followers/Rafix4x?color=7F00FF&label=FOLLOWERS&logo=github&style=for-the-badge"/></a>
-  <a href="https://github.com/Rafix4x?tab=repositories"><img src="https://img.shields.io/badge/TOTAL%20PROJECTS-25%2B-FF00E5?style=for-the-badge&logo=github"/></a>
-  <a href="https://github.com/Rafix4x/register"><img src="https://img.shields.io/badge/IS--A--DEV-CONTRIBUTOR-00FF88?style=for-the-badge&logo=github"/></a>
+  <a href="https://github.com/Rafix4x?tab=repositories"><img src="https://img.shields.io/badge/STATUS-ONLINE-00FF88?style=for-the-badge&labelColor=0D1117"/></a>
+  <img src="https://img.shields.io/badge/LOCATION-BANGLADESH%20%F0%9F%87%A7%F0%9F%87%A9-FF00E5?style=for-the-badge&labelColor=0D1117"/>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 </div>
 
----
-
 ## 👾 WHO AM I?
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Rafix4x/Rafix4x/main/assets/terminal.svg" width="100%" alt="Terminal whoami"/>
+<img src="https://raw.githubusercontent.com/Rafix4x/Rafix4x/main/assets/about-god.svg" width="100%" alt="Rafix4x Identity Module"/>
+</div>
+
+```javascript
+const rafi = {
+  location: "Bangladesh 🇧🇩",
+  role: "Full Stack Developer & API Architect",
+  mode: "SHIPPER",
+  stack: ["Node.js", "Express", "Python", "JavaScript"],
+  building: "Production-grade REST APIs on Railway",
+  learning: "System Design & Cloud Architecture",
+  motto: "Building the future, one API at a time ⚡"
+};
+```
+
+- 🔭 **Building** → production-grade REST APIs & automation tools
+- 🌱 **Learning** → system design & cloud architecture
+- ⚡ **Specialty** → Node.js automation & clean API design
+- 📫 **Reach me** → [rafihasunaz09@gmail.com](mailto:rafihasunaz09@gmail.com)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🛠️ TECH ARSENAL
+
+<div align="center">
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,nodejs,express,python,html,css,git,github,vercel,railway,linux,vscode,obsidian,cloudflare&theme=dark&perline=7"/>
+</p>
+
+| **BACKEND** | **FRONTEND** | **INFRA** | **TOOLS** |
+|:-----------:|:------------:|:---------:|:---------:|
+| ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
+| ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) | ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
+
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
----
-
-## ⚡ QUICK STATS
+## 📊 SYSTEM DIAGNOSTICS
 
 <div align="center">
+
 <table>
 <tr>
 <td width="50%">
@@ -48,111 +80,73 @@
 </td>
 </tr>
 </table>
-</div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
----
-
-## 🔧 TECH ARSENAL
-
-<div align="center">
-
-<p>
-  <img src="https://skillicons.dev/icons?i=js,nodejs,express,python,html,css,git,github,vercel,railway,linux,vscode,obsidian,cloudflare&theme=dark&perline=7"/>
-</p>
-
-| **BACKEND** | **FRONTEND** | **INFRA** | **TOOLS** |
-|:-----------:|:------------:|:---------:|:---------:|
-| ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
-| ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) | ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) |
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
-| ![REST API](https://img.shields.io/badge/REST_API-00F5FF?style=for-the-badge&logo=fastapi&logoColor=white) | | ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white) | ![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white) |
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rafix4x&theme=tokyonight&border=7F00FF&fire=FFD700&currStreakLabel=00F5FF" width="100%" alt="Rafix4x Streak"/>
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
----
-
-## 🐍 CONTRIBUTION SNAKE
+## 📈 ACTIVITY TRACE
 
 <div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rafix4x&bg_color=0D1117&color=00F5FF&line=7F00FF&point=FF00E5&area=true&area_color=7F00FF&hide_border=true" width="100%" alt="Rafix4x Activity Graph"/>
+
+### 🐍 CONTRIBUTION SNAKE
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rafix4x/Rafix4x/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rafix4x/Rafix4x/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Rafix4x/Rafix4x/output/github-contribution-grid-snake-dark.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rafix4x/Rafix4x/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rafix4x/Rafix4x/output/github-contribution-grid-snake.svg"/>
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Rafix4x/Rafix4x/output/github-contribution-grid-snake.svg" width="100%"/>
 </picture>
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
----
-
-## 🌐 ACTIVITY GRAPH
+## 💠 RAFICORE PHILOSOPHY
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rafix4x&bg_color=0D1117&color=00F5FF&line=7F00FF&point=FF00E5&area=true&hide_border=true&area_color=00F5FF&title_color=00F5FF&custom_title=Rafix4x%20Contribution%20Graph"/>
+<img src="https://raw.githubusercontent.com/Rafix4x/Rafix4x/main/assets/philosophy-god.svg" width="100%" alt="Rafix4x Philosophy"/>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
----
-
-## 🏆 ACHIEVEMENT GALLERY
+## 🚀 FEATURED PROJECT
 
 <div align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rafix4x&theme=tokyonight"/>
+
+<a href="https://github.com/Rafix4x/Rafix4x">
+  <img src="https://img.shields.io/badge/%F0%9F%9A%80_RAFX4X-PROFILE_CORE-00F5FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"/>
+</a>
+
+**Rafix4x** — the profile you're looking at right now.
+`Full Stack Developer • API Architect • Automation Specialist`
+
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
----
-
-## 🔥 FEATURED PROJECTS
+## 📡 VISITOR DASHBOARD
 
 <div align="center">
+
+<img src="https://raw.githubusercontent.com/Rafix4x/Rafix4x/main/assets/visitor-god.svg" width="100%" alt="Rafix4x Visitor Dashboard"/>
+
 <p>
-  <a href="https://github.com/Rafix4x/register">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Rafix4x&repo=register&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=7F00FF&text_color=C9D1D9"/>
-  </a>
-  <a href="https://github.com/Rafix4x/rafix7x">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Rafix4x&repo=rafix7x&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7F00FF&icon_color=00F5FF&text_color=C9D1D9"/>
-  </a>
-</p>
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
----
-
-<div align="center">
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Rafix4x/Rafix4x/main/assets/visitor-god.svg" width="100%" alt="Rafix4x Visitor Dashboard"/>
-</p>
-
-<p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Rafix4x.Rafix4x&label=TOTAL+VISITORS&color=00F5FF&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/STATUS-ONLINE-00FF88?style=for-the-badge&labelColor=0D1117"/>
   <img src="https://img.shields.io/badge/LOCATION-BANGLADESH-FF00E5?style=for-the-badge&labelColor=0D1117"/>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Rafix4x/Rafix4x/main/assets/philosophy-god.svg" width="100%" alt="Rafix4x Philosophy"/>
-</p>
+</div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/MINDSET-CODE%20FAST-00F5FF?style=for-the-badge&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/API-JUST%20WORKS-7F00FF?style=for-the-badge&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/FOCUS-AUTOMATION-FF00E5?style=for-the-badge&labelColor=0D1117"/>
-</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
----
+## 🤝 CONNECT WITH ME
 
-### 🤝 CONNECT WITH ME
+<div align="center">
 
 <p>
   <a href="https://github.com/Rafix4x"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
