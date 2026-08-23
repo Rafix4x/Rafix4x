@@ -27,7 +27,7 @@ const rafi = {
   role: "Full Stack Developer & API Architect",
   mode: "SHIPPER",
   stack: ["Node.js", "Express", "Python", "JavaScript"],
-  building: "Production-grade REST APIs on Railway",
+  building: "Production-grade REST APIs & automation systems",
   learning: "System Design & Cloud Architecture",
   motto: "Building the future, one API at a time ⚡"
 };
@@ -65,23 +65,40 @@ const rafi = {
 <table>
 <tr>
 <td width="50%">
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rafix4x&theme=tokyonight"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rafix4x&theme=tokyonight"/>
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rafix4x&theme=default" alt="Stats"/>
+</picture>
 </td>
 <td width="50%">
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rafix4x&theme=tokyonight&utcOffset=6"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rafix4x&theme=tokyonight&utcOffset=6"/>
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rafix4x&theme=default&utcOffset=6" alt="Productive Time"/>
+</picture>
 </td>
 </tr>
 <tr>
 <td width="50%">
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rafix4x&theme=tokyonight"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rafix4x&theme=tokyonight"/>
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rafix4x&theme=default" alt="Repos per Language"/>
+</picture>
 </td>
 <td width="50%">
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rafix4x&theme=tokyonight"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rafix4x&theme=tokyonight"/>
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rafix4x&theme=default" alt="Most Commit Language"/>
+</picture>
 </td>
 </tr>
 </table>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rafix4x&theme=tokyonight&border=7F00FF&fire=FFD700&currStreakLabel=00F5FF" width="100%" alt="Rafix4x Streak"/>
+### ⚡ STREAK GRID
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Rafix4x&theme=tokyonight&border_radius=0&border=7F00FF&fire=FFD700&currStreakLabel=00F5FF"/>
+  <img src="https://streak-stats.demolab.com?user=Rafix4x&theme=default&border_radius=0&border=7F00FF&fire=FF6D00&currStreakLabel=7F00FF" width="100%" alt="Rafix4x Streak"/>
+</picture>
 
 </div>
 
@@ -91,7 +108,10 @@ const rafi = {
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rafix4x&bg_color=0D1117&color=00F5FF&line=7F00FF&point=FF00E5&area=true&area_color=7F00FF&hide_border=true" width="100%" alt="Rafix4x Activity Graph"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Rafix4x&bg_color=0D1117&color=00F5FF&line=7F00FF&point=FF00E5&area=true&area_color=7F00FF&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rafix4x&bg_color=ffffff&color=7F00FF&line=00C8FF&point=FF00E5&area=true&area_color=C7A4FF&hide_border=true" width="100%" alt="Rafix4x Activity Graph"/>
+</picture>
 
 ### 🐍 CONTRIBUTION SNAKE
 
@@ -113,32 +133,30 @@ const rafi = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🚀 FEATURED PROJECT
+## 🚀 CURRENT MISSIONS
 
 <div align="center">
 
-<a href="https://github.com/Rafix4x/Rafix4x">
-  <img src="https://img.shields.io/badge/%F0%9F%9A%80_RAFX4X-PROFILE_CORE-00F5FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"/>
-</a>
+```yaml
+rafix4x:
+  active_deployments:
+    - name: "Cyx"
+      type: "Messenger Bot Framework"
+      stack: [Node.js, MQTT, MongoDB]
+      status: "🟢 PRODUCTION"
 
-**Rafix4x** — the profile you're looking at right now.
-`Full Stack Developer • API Architect • Automation Specialist`
+    - name: "cyx-gpt-api"
+      type: "ChatGPT Bridge API"
+      stack: [Python, SSE Streaming]
+      status: "🟢 PRODUCTION"
 
-</div>
+    - name: "Ws-fca"
+      type: "Facebook Chat API Library"
+      stack: [Node.js, GraphQL]
+      status: "🔧 ACTIVE DEV"
+```
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 📡 VISITOR DASHBOARD
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Rafix4x/Rafix4x/main/assets/visitor-god.svg" width="100%" alt="Rafix4x Visitor Dashboard"/>
-
-<p>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Rafix4x.Rafix4x&label=TOTAL+VISITORS&color=00F5FF&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/STATUS-ONLINE-00FF88?style=for-the-badge&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/LOCATION-BANGLADESH-FF00E5?style=for-the-badge&labelColor=0D1117"/>
-</p>
+<img src="https://raw.githubusercontent.com/Rafix4x/Rafix4x/main/assets/terminal.svg" width="100%" alt="Rafix4x Terminal"/>
 
 </div>
 
