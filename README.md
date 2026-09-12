@@ -1,176 +1,97 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:7F00FF,100:FF00E5&height=220&section=header&text=RAFIX4X&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=BUILDING%20THE%20FUTURE%2C%20ONE%20API%20AT%20A%20TIME&descAlignY=58&descSize=15&stroke=00F5FF&strokeWidth=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:7F00FF,100:FF00E5&height=220&section=header&text=RAFIX4X&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=BACKEND%20SYSTEMS%20%7C%20APIS%20%7C%20AUTOMATION&descAlignY=58&descSize=15&stroke=00F5FF&strokeWidth=2" width="100%" alt="Rafix4x neon header" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&multiline=true&width=700&height=120&lines=%F0%9F%92%BB+Full+Stack+Developer;%F0%9F%9A%80+REST+API+Architect;%E2%9A%A1+Node.js+%26+Automation+Specialist;%F0%9F%94%A5+Building+Tools+That+Matter)](https://github.com/Rafix4x)
+<a href="https://github.com/Rafix4x">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=900&color=00F5FF&center=true&vCenter=true&multiline=true&width=700&height=90&lines=Full+Stack+Developer;API+Builder+%7C+Automation+Specialist;Shipping+useful+systems+one+commit+at+a+time" alt="Full Stack Developer, API Builder, Automation Specialist" />
+</a>
 
 <p>
-  <a href="https://github.com/Rafix4x"><img src="https://visitor-badge.laobi.icu/badge?page_id=Rafix4x.Rafix4x&label=VISITORS&color=00F5FF&style=for-the-badge"/></a>
-  <a href="https://github.com/Rafix4x?tab=followers"><img src="https://img.shields.io/github/followers/Rafix4x?color=7F00FF&label=FOLLOWERS&logo=github&style=for-the-badge"/></a>
-  <a href="https://github.com/Rafix4x?tab=repositories"><img src="https://img.shields.io/badge/STATUS-ONLINE-00FF88?style=for-the-badge&labelColor=0D1117"/></a>
-  <img src="https://img.shields.io/badge/LOCATION-BANGLADESH%20%F0%9F%87%A7%F0%9F%87%A9-FF00E5?style=for-the-badge&labelColor=0D1117"/>
+  <a href="https://github.com/Rafix4x"><img src="https://img.shields.io/badge/GitHub-Rafix4x-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
+  <a href="https://github.com/Rafix4x?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Browse-7F00FF?style=for-the-badge&logo=github&logoColor=white" alt="Browse repositories" /></a>
+  <img src="https://img.shields.io/badge/Bangladesh-%F0%9F%87%A7%F0%9F%87%A9-00C8FF?style=for-the-badge&labelColor=0D1117" alt="Based in Bangladesh" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
 </div>
 
-## 👾 WHO AM I?
+## 👋 About
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Rafix4x/Rafix4x/main/assets/about-god.svg" width="100%" alt="Rafix4x Identity Module"/>
+  <img src="assets/about-god.svg" width="100%" alt="Rafix4x identity illustration" />
 </div>
 
-```javascript
+I’m **Rafi**, a Bangladesh-based developer focused on backend systems, REST APIs, and automation. I enjoy turning rough ideas into practical services with clear interfaces, maintainable code, and deployment-friendly workflows.
+
+```js
 const rafi = {
-  location: "Bangladesh 🇧🇩",
-  role: "Full Stack Developer & API Architect",
-  mode: "SHIPPER",
+  focus: ["Backend systems", "REST APIs", "Automation"],
   stack: ["Node.js", "Express", "Python", "JavaScript"],
-  building: "Production-grade REST APIs & automation systems",
-  learning: "System Design & Cloud Architecture",
-  motto: "Building the future, one API at a time ⚡"
+  learning: ["System design", "Cloud architecture"],
+  contact: "GitHub"
 };
 ```
 
-- 🔭 **Building** → production-grade REST APIs & automation tools
-- 🌱 **Learning** → system design & cloud architecture
-- ⚡ **Specialty** → Node.js automation & clean API design
-- 📫 **Reach me** → [rafihasunaz09@gmail.com](mailto:rafihasunaz09@gmail.com)
+## ⚙️ What I Build
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+- **API services** — focused REST endpoints and integrations
+- **Automation tools** — workflows that remove repetitive work
+- **Backend systems** — event-driven services, bots, and data utilities
+- **Developer tooling** — small, useful utilities that are easy to deploy and maintain
 
-## 🛠️ TECH ARSENAL
+## 🚀 Selected Work
+
+> Some projects below are private. They are listed for context only; private source code and deployment details are not publicly accessible.
+
+| Project | Focus | Stack | Visibility |
+|:--|:--|:--|:--:|
+| **Cyx** | Messenger automation platform | Node.js · MQTT · MongoDB | Private |
+| **cyx-gpt-api** | ChatGPT bridge API | Python · SSE | Private |
+| **Ws-fca** | Facebook chat API library | Node.js · GraphQL | Private |
+
+For public code and the latest repository list, visit **[github.com/Rafix4x](https://github.com/Rafix4x?tab=repositories)**.
+
+## 🧰 Tech Stack
 
 <div align="center">
-
-<p>
-  <img src="https://skillicons.dev/icons?i=js,nodejs,express,python,html,css,git,github,vercel,railway,linux,vscode,obsidian,cloudflare&theme=dark&perline=7"/>
-</p>
-
-| **BACKEND** | **FRONTEND** | **INFRA** | **TOOLS** |
-|:-----------:|:------------:|:---------:|:---------:|
-| ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
-| ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) | ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) |
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
-
+  <img src="https://skillicons.dev/icons?i=js,nodejs,express,python,html,css,git,github,vercel,railway,linux,vscode,obsidian,cloudflare&theme=dark&perline=7" alt="Node.js, Express, Python, JavaScript, HTML, CSS, Git, GitHub, Vercel, Railway, Linux, VS Code, Obsidian, and Cloudflare" />
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+| Area | Technologies |
+|:--|:--|
+| **Backend & APIs** | Node.js, Express, Python, JavaScript |
+| **Web** | HTML, CSS |
+| **Infrastructure** | Linux, Vercel, Railway, Cloudflare |
+| **Workflow** | Git, GitHub, VS Code, Obsidian |
+| **Currently learning** | System design and cloud architecture |
 
-## 📊 SYSTEM DIAGNOSTICS
+## 💠 Raficore Principles
 
 <div align="center">
-
-<table>
-<tr>
-<td width="50%">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rafix4x&theme=tokyonight"/>
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rafix4x&theme=default" alt="Stats"/>
-</picture>
-</td>
-<td width="50%">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rafix4x&theme=tokyonight&utcOffset=6"/>
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rafix4x&theme=default&utcOffset=6" alt="Productive Time"/>
-</picture>
-</td>
-</tr>
-<tr>
-<td width="50%">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rafix4x&theme=tokyonight"/>
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rafix4x&theme=default" alt="Repos per Language"/>
-</picture>
-</td>
-<td width="50%">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rafix4x&theme=tokyonight"/>
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rafix4x&theme=default" alt="Most Commit Language"/>
-</picture>
-</td>
-</tr>
-</table>
-
-### ⚡ STREAK GRID
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Rafix4x&theme=tokyonight&border_radius=0&border=7F00FF&fire=FFD700&currStreakLabel=00F5FF"/>
-  <img src="https://streak-stats.demolab.com?user=Rafix4x&theme=default&border_radius=0&border=7F00FF&fire=FF6D00&currStreakLabel=7F00FF" width="100%" alt="Rafix4x Streak"/>
-</picture>
-
+  <img src="assets/philosophy-god.svg" width="100%" alt="Rafix4x philosophy illustration" />
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+1. Keep the interface clear.
+2. Automate the boring parts.
+3. Ship useful work before polishing the noise.
+4. Learn continuously and improve the system with every iteration.
 
-## 📈 ACTIVITY TRACE
+## 📡 Activity
+
+I keep my public work and updates on GitHub. Generated activity cards can become stale, so the repository list is the reliable place to see what is currently public.
 
 <div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Rafix4x&bg_color=0D1117&color=00F5FF&line=7F00FF&point=FF00E5&area=true&area_color=7F00FF&hide_border=true"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rafix4x&bg_color=ffffff&color=7F00FF&line=00C8FF&point=FF00E5&area=true&area_color=C7A4FF&hide_border=true" width="100%" alt="Rafix4x Activity Graph"/>
-</picture>
-
-### 🐍 CONTRIBUTION SNAKE
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rafix4x/Rafix4x/output/github-contribution-grid-snake-dark.svg?v=3"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rafix4x/Rafix4x/output/github-contribution-grid-snake.svg?v=3"/>
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Rafix4x/Rafix4x/output/github-contribution-grid-snake.svg?v=3" width="100%"/>
-</picture>
-
+  <a href="https://github.com/Rafix4x?tab=overview">View GitHub activity</a>
+  ·
+  <a href="https://github.com/Rafix4x?tab=repositories">Browse repositories</a>
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+## 🤝 Connect
 
-## 💠 RAFICORE PHILOSOPHY
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/Rafix4x/Rafix4x/main/assets/philosophy-god.svg" width="100%" alt="Rafix4x Philosophy"/>
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 🚀 CURRENT MISSIONS
+The best way to reach me is **[GitHub](https://github.com/Rafix4x)** — open an issue or discussion on a relevant public repository, or check my profile for the latest work.
 
 <div align="center">
-
-```yaml
-rafix4x:
-  active_deployments:
-    - name: "Cyx"
-      type: "Messenger Bot Framework"
-      stack: [Node.js, MQTT, MongoDB]
-      status: "🟢 PRODUCTION"
-
-    - name: "cyx-gpt-api"
-      type: "ChatGPT Bridge API"
-      stack: [Python, SSE Streaming]
-      status: "🟢 PRODUCTION"
-
-    - name: "Ws-fca"
-      type: "Facebook Chat API Library"
-      stack: [Node.js, GraphQL]
-      status: "🔧 ACTIVE DEV"
-```
-
-<img src="https://raw.githubusercontent.com/Rafix4x/Rafix4x/main/assets/terminal.svg" width="100%" alt="Rafix4x Terminal"/>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 🤝 CONNECT WITH ME
-
-<div align="center">
-
-<p>
-  <a href="https://github.com/Rafix4x"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="mailto:rafihasunaz09@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00E5,50:7F00FF,100:00F5FF&height=140&section=footer&animation=twinkling" width="100%"/>
-
+  <a href="https://github.com/Rafix4x">
+    <img src="https://img.shields.io/badge/Follow_on_GitHub-00F5FF?style=for-the-badge&logo=github&logoColor=0D1117" alt="Follow Rafix4x on GitHub" />
+  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00E5,50:7F00FF,100:00F5FF&height=120&section=footer&animation=twinkling" width="100%" alt="Neon footer" />
 </div>
