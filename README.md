@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:7F00FF,100:FF00E5&height=220&section=header&text=RAFIX4X&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=BACKEND%20SYSTEMS%20%7C%20APIS%20%7C%20AUTOMATION&descAlignY=58&descSize=15&stroke=00F5FF&strokeWidth=2" width="100%" alt="Rafix4x neon header" />
 
 <a href="https://github.com/Rafix4x">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=900&color=00F5FF&center=true&vCenter=true&multiline=true&width=700&height=90&lines=Full+Stack+Developer;API+Builder+%7C+Automation+Specialist;Shipping+useful+systems+one+commit+at+a+time" alt="Full Stack Developer, API Builder, Automation Specialist" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=900&color=00F5FF&center=true&vCenter=true&multiline=true&width=700&height=90&lines=Backend+Developer;REST+API+Builder+%7C+Automation+Specialist;Shipping+useful+systems+one+commit+at+a+time" alt="Backend Developer, REST API Builder, Automation Specialist" />
 </a>
 
 <p>
